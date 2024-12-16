@@ -4,4 +4,5 @@
 
 ### How to run Project ?
 #### first : download project or Clone 
-#### second : npm 
+#### second : write command [ npm install ] to download node modules
+#### thrid : write command [ npm run dev ]
